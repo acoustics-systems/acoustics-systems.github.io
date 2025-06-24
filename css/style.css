@@ -157,8 +157,9 @@ body {
 }
 
 .about__text {
-        /* text-align: justify; */
-        text-align: center;
+        text-align: justify;
+        /* text-align: center; */
+        font-size: 18px;
 }
 
 .items {
