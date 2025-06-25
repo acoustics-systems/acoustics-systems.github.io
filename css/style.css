@@ -92,10 +92,6 @@ body {
         padding: 15px;
 }
 
-.main__container--big {
-        font-size: 22px;
-}
-
 .wrapper {
         min-height: 100svh;
         overflow: clip;
