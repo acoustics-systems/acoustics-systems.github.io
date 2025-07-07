@@ -1,2 +1,4 @@
 User-agent: Yandex
 Disallow: /
+
+Sitemap: https://acoustics-systems.github.io/sitemap.xml
